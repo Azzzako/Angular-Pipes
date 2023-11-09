@@ -1,4 +1,4 @@
-#Pipes Angular
+## Pipes Angular
 
 Temas puntuales de la sección
 ¿Qué veremos en esta sección?
