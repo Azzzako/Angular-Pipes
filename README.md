@@ -1,6 +1,6 @@
 ## Pipes Angular
 
-Temas puntuales de la sección
+Temas puntuales de la sección <br> <br>
 ¿Qué veremos en esta sección?
 Esta sección es de mis favoritas del curso, veremos temas sobre Pipes y transformación visual de la data, pero también decidí mezclarlo con otro tema muy solicitado que es PrimeNG (Más adelante hay también una sección con muchos componentes de Angular Material), pero esta sección pretende enseñarles muchas cosas interesantes, aparte de los Pipes de Angular
 
