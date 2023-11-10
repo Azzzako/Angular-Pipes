@@ -1,6 +1,6 @@
 ## Pipes Angular
 
-Temas puntuales de la sección <br> <br>
+Temas puntuales de la sección 1 <br> <br>
 ¿Qué veremos en esta sección?
 Esta sección es de mis favoritas del curso, veremos temas sobre Pipes y transformación visual de la data, pero también decidí mezclarlo con otro tema muy solicitado que es PrimeNG (Más adelante hay también una sección con muchos componentes de Angular Material), pero esta sección pretende enseñarles muchas cosas interesantes, aparte de los Pipes de Angular
 
@@ -39,3 +39,17 @@ Módulo especializado para módulos de PrimeNG
 PrimeNG es un paquete de componentes estilizados que contienen funcionalidades basadas en Angular para crear aplicaciones elegantes, hermosas y funcionales rápidamente.
 
 Recuerden que PrimeNG no es el único, hay muchos pero la mayoría funcionan de formas similares, importando módulos, por eso mi objetivo de entrenarlos bastante bien con el manejo de módulos en todo momento para que nos familiaricemos con esta métodología.
+<br><br>
+
+Temas puntuales de la seccion 2 <br> <br>
+
+¿Qué veremos en esta sección?
+Este es un breve listado de los temas fundamentales:
+
+Pipes personalizados
+
+Argumentos hacia los Pipes
+
+SortableTable manual y usando PrimeNg
+
+Es una sección pequeña, pero sumamente ilustrativa y necesaria para poder expandir todos los pipes que no existen
