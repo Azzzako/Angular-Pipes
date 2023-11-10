@@ -12,6 +12,7 @@ import { PrimeNgModule } from '../prime-ng/prime-ng.module';
   imports: [
     CommonModule,
     PrimeNgModule
+    
   ],
   exports: [
     MenuComponent
